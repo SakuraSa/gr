@@ -1,0 +1,2 @@
+# gr
+go-resource
